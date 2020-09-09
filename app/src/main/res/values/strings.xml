@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Task</string>
+
+    // home page
+    <string name="discover">Discover</string>
+    <string name="message">FIND CODE \nGET PRICE</string>
+    <string name="categories">Categories</string>
+    <string name="most_popular">Most Popular</string>
+    <string name="plus">+</string>
+    <string name="minus">-</string>
+    //  product details page
+    <string name="ingredient">Ingredients</string>
+    <string name="biscuits">Biscuits</string>
+    <string name="shelf_life">Shelf Life</string>
+    <string name="add_to_basket">ADD TO BASKET</string>
+</resources>
